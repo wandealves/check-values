@@ -1,5 +1,5 @@
 {
-  "name": "check-values",
+  "name": "check-properties",
   "version": "1.0.0",
   "description": "Object property checker",
   "main": "lib/index.js",

@@ -13,9 +13,7 @@
     "start": "node index.js"
   },
   "keywords": [
-    "email",
-    "validator",
-    "validation",
+    "reflect",
     "check"
   ],
   "devDependencies": {
